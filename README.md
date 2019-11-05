@@ -1,4 +1,4 @@
-# Polarimetric Thermal to Visible Face Verification via Attribute Preserved Synthesis
+# Polarimetric Thermal to Visible Face Verification via Attribute Preserved Synthesis (in progress)
 This repository is about our work, [Polarimetric Thermal to Visible Face Verification via Attribute Preserved Synthesis](https://arxiv.org/abs/1901.00889)
 
 ## Reference
