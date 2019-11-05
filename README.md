@@ -18,7 +18,9 @@ month={Oct},}
 ```
 
 ## Acknowledgments
-This is work is highlg inspired by: [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix#prerequisites)
+This is work is highlg inspired by: 
+
+[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix#prerequisites)
 
 [Pytorch_fft](https://github.com/locuslab/pytorch_fft)
 
