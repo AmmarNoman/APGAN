@@ -1,4 +1,4 @@
-# AP-GAN: Gender-Preserving-GAN-for-Synthesizing-Faces-from-Landmarks
+# Polarimetric Thermal to Visible Face Verification via Attribute Preserved Synthesis
 This repository is about our work, [Polarimetric Thermal to Visible Face Verification via Attribute Preserved Synthesis](https://arxiv.org/abs/1901.00889)
 
 ## Reference
